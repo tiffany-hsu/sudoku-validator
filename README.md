@@ -12,7 +12,9 @@ Write a command-line program that can read a file containing a Sudoku grid and v
 Fork the GitHub repo into your own account and do all your work on a feature branch named `{initials}-solution`.  Once you are done with your solution and all the tests are passing, submit a pull request on **YOUR** forked copy for review and email us the link to your PR.
 
 # IMPORTANT 
-**DO NOT** submit a PR to our repository - We would like to keep all solution submissions separate and not in the public view.
+**DO NOT** submit a PR to our repository
+
+You will need to create a PR in your fork so that we can see your solution easily.
 Follow these [instructions](https://help.github.com/articles/creating-a-pull-request/) if you are unsure of the process.
 
 ## Exercise Details:
