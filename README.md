@@ -4,18 +4,19 @@ Sudoku is a logic-based combinatorial number-placement puzzle. The objective is 
 
 Write a command-line program that can read a file containing a Sudoku grid and validate it. The grid can be partially or completely solved. Return either a success message or an error message.
 
-## Setup Instructions
+## Instructions
 
 - `fork the github repo`
 - run `bin/setup`
 
-Fork the GitHub repo into your own account and do all your work on a feature branch named `{initials}-solution`.  Once you are done with your solution and all the tests are passing, submit a pull request on **YOUR** forked copy for review and email us the link to your PR.
+Fork the GitHub repo into your own account and do all your work on a feature branch named `{initials}-solution`.  
 
-# IMPORTANT 
-**DO NOT** submit a PR to our repository
+Once you are done with your solution and all the tests are passing, submit a pull request on **YOUR** forked copy for review and email us the link to your PR.
 
-You will need to create a PR in your fork so that we can see your solution easily.
-Follow these [instructions](https://help.github.com/articles/creating-a-pull-request/) if you are unsure of the process.
+Make sure the repo and PR are public so we can see them.
+
+**DO NOT** submit a PR to our repository!
+
 
 ## Exercise Details:
 A Sudoku is valid if:
